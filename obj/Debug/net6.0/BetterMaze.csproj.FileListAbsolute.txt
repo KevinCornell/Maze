@@ -1,0 +1,15 @@
+C:\Users\kevdc\source\repos\demo\BetterMaze\bin\Debug\net6.0\BetterMaze.exe
+C:\Users\kevdc\source\repos\demo\BetterMaze\bin\Debug\net6.0\BetterMaze.deps.json
+C:\Users\kevdc\source\repos\demo\BetterMaze\bin\Debug\net6.0\BetterMaze.runtimeconfig.json
+C:\Users\kevdc\source\repos\demo\BetterMaze\bin\Debug\net6.0\BetterMaze.dll
+C:\Users\kevdc\source\repos\demo\BetterMaze\bin\Debug\net6.0\BetterMaze.pdb
+C:\Users\kevdc\source\repos\demo\BetterMaze\obj\Debug\net6.0\BetterMaze.csproj.AssemblyReference.cache
+C:\Users\kevdc\source\repos\demo\BetterMaze\obj\Debug\net6.0\BetterMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevdc\source\repos\demo\BetterMaze\obj\Debug\net6.0\BetterMaze.AssemblyInfoInputs.cache
+C:\Users\kevdc\source\repos\demo\BetterMaze\obj\Debug\net6.0\BetterMaze.AssemblyInfo.cs
+C:\Users\kevdc\source\repos\demo\BetterMaze\obj\Debug\net6.0\BetterMaze.csproj.CoreCompileInputs.cache
+C:\Users\kevdc\source\repos\demo\BetterMaze\obj\Debug\net6.0\BetterMaze.dll
+C:\Users\kevdc\source\repos\demo\BetterMaze\obj\Debug\net6.0\refint\BetterMaze.dll
+C:\Users\kevdc\source\repos\demo\BetterMaze\obj\Debug\net6.0\BetterMaze.pdb
+C:\Users\kevdc\source\repos\demo\BetterMaze\obj\Debug\net6.0\BetterMaze.genruntimeconfig.cache
+C:\Users\kevdc\source\repos\demo\BetterMaze\obj\Debug\net6.0\ref\BetterMaze.dll
